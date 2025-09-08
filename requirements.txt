@@ -1,0 +1,11 @@
+Numpy
+pandas
+sklearn
+seaborn
+cv2
+tensorflow
+matplotlib
+pil
+torch
+pickle
+tqdm
